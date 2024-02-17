@@ -17,3 +17,6 @@ def main():
 	if op == "m":
 		result = d1 * d2
 	print("The answer is " + result)
+
+if __name__ == "__main__":
+	main()
